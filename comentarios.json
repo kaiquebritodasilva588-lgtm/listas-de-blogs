@@ -1,0 +1,20 @@
+[
+  {"postId":1,"id":1,"name":"Marcos","email":"marcos@exemplo.com","body":"Explicação clara! Agora entendi a diferença entre GET e POST."},
+  {"postId":1,"id":2,"name":"Paula","email":"paula@exemplo.com","body":"Ótimo para quem está começando em Sistema WEB."},
+  {"postId":1,"id":3,"name":"Rafael","email":"rafael@exemplo.com","body":"Faltou falar do PATCH, mas o resumo ficou bom."},
+  {"postId":2,"id":4,"name":"Larissa","email":"larissa@exemplo.com","body":"Eu esquecia sempre do response.ok. Dica valiosa."},
+  {"postId":2,"id":5,"name":"Tiago","email":"tiago@exemplo.com","body":"Usei no meu projeto e funcionou de primeira."},
+  {"postId":3,"id":6,"name":"Bianca","email":"bianca@exemplo.com","body":"O try/catch com await deixou meu código bem mais limpo."},
+  {"postId":3,"id":7,"name":"Vitor","email":"vitor@exemplo.com","body":"Será que dá para usar await fora de função async?"},
+  {"postId":4,"id":8,"name":"Camila","email":"camila@exemplo.com","body":"Promise.all é o que o desafio pede, ótimo exemplo."},
+  {"postId":4,"id":9,"name":"Daniel","email":"daniel@exemplo.com","body":"E se uma das requisições falhar? O Promise.all rejeita tudo?"},
+  {"postId":5,"id":10,"name":"Fernanda","email":"fernanda@exemplo.com","body":"JSON.stringify me salvou várias vezes."},
+  {"postId":6,"id":11,"name":"Gustavo","email":"gustavo@exemplo.com","body":"Não sabia que a API de teste não grava nada. Valeu!"},
+  {"postId":6,"id":12,"name":"Helena","email":"helena@exemplo.com","body":"Content-Type errado foi meu maior erro no começo."},
+  {"postId":7,"id":13,"name":"Igor","email":"igor@exemplo.com","body":"Mensagem de erro amigável faz toda a diferença."},
+  {"postId":8,"id":14,"name":"Julia","email":"julia@exemplo.com","body":"Nunca tinha pensado em XSS num comentário de blog."},
+  {"postId":8,"id":15,"name":"Kevin","email":"kevin@exemplo.com","body":"textContent daqui para frente!"},
+  {"postId":9,"id":16,"name":"Leonardo","email":"leonardo@exemplo.com","body":"Passei horas com esse erro de CORS. Boa explicação."},
+  {"postId":10,"id":17,"name":"Mariana","email":"mariana@exemplo.com","body":"Separar em funções pequenas ajuda muito na hora de apresentar."},
+  {"postId":10,"id":18,"name":"Nicolas","email":"nicolas@exemplo.com","body":"Organização é tudo. Parabéns pelo post."}
+]
